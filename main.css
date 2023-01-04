@@ -8,3 +8,10 @@ section#gitKomandos > ul {
     list-style-type: none;
 
 }
+body {
+    background-color: rgb(163, 128, 196);
+}
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;
+}
